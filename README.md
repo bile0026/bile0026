@@ -35,6 +35,7 @@ I get involved in a lot of different projects and solutions due to my wide varie
 - Netbox
 
 📫 How to reach me: ...
+- Blog: [zachbiles.net](https://zachbiles.net)
 - Twitter: [@zjbiles](https://twitter.com/zjbiles)
 - LinkedIn: [zachary-biles](https://www.linkedin.com/in/zachary-biles/)
 - Slack: [LittleBrothersWISP](https://www.patreon.com/thebrotherswisp), [NetDev](https://netdev.chat/)
