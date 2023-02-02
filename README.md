@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Zach, and I'm a Network Architect, Business Owner, and Home Lab Techie. I like to play with a lot of different technologies from programming, networking, servers, raspberry pi, to home automation and sensors.
+I'm Zach, and I'm an Automation Engineer, Network Architect, Business Owner, and Home Lab Techie. I like to play with a lot of different technologies from programming, networking, servers, raspberry pi, to home automation and sensors.
 
 I also do Business IT Consulting and WISP consulting, helping businesses and network operators automate and secure their networks.
 
@@ -32,7 +32,9 @@ I get involved in a lot of different projects and solutions due to my wide varie
   - Random scripts
 - PowerShell Automation
   - Random Scripts
-- Netbox
+- Nautobot
+  - SSoT
+  - Golden Config
 
 📫 How to reach me: ...
 - Blog: [zachbiles.net](https://zachbiles.net)
